@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @SamyajyotiMohanta
-- 👀 I’m interested in finding and solving programming problems.
-- 🌱 I’m currently learning  for Full Stack Developer.
-- 💞️ I’m looking to collaborate on  programming.
+- 👋 Hi, I’m @Sam
 - 📫 How to reach me Email-samyajyotimohanta496@gmail.com, 
 
 <!---
